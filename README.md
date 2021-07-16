@@ -1,6 +1,6 @@
 #### Hey There I am Mansi kushwaha
 
-I m a full-stack developer
+I m a javaScript developer
 
 <hr  />
 
